@@ -1,6 +1,6 @@
 📜 GSOFT GAME PROTECTION LICENSE (GGPL) v1.0
 Issued: July 2025
-Owner: GSOFT (Ahmed Bouhlal)
+Owner: GSOFT
 Project: Sky Empires™
 Status: All Rights Reserved
 
@@ -94,7 +94,7 @@ Use assets in trailers, exhibitions, or media
 
 You must contact GSOFT directly at:
 
-📩 Email: contact@gsoftstudio.com
+📩 Email: Coming soon
 🌍 Website: Coming soon
 📅 Issued on: July 2025
 🔐 License Version: GSOFT Game Protection License v1.0
