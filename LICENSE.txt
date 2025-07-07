@@ -1,0 +1,106 @@
+📜 GSOFT GAME PROTECTION LICENSE (GGPL) v1.0
+Issued: July 2025
+Owner: GSOFT (Ahmed Bouhlal)
+Project: Sky Empires™
+Status: All Rights Reserved
+
+1. OWNERSHIP
+All code, visual designs, models, systems, gameplay mechanics, names, audio, storyline, lore, and branding assets contained in or derived from the project Sky Empires are the exclusive intellectual property of GSOFT.
+
+GSOFT owns the full rights to this project and its expression in any form, including but not limited to:
+
+Source code (C#, Unity, game logic)
+
+UI/UX design, art, characters, maps, 3D models
+
+Story, dialogue, progression systems, gameplay loops
+
+Skill mechanics, cultivation systems, aura levels
+
+Game name (“Sky Empires”), studio name (“GSOFT”), slogans, and logo
+
+All marketing materials, gameplay recordings, and internal documents
+
+2. PROHIBITED USES
+The following actions are strictly prohibited without written permission from GSOFT:
+
+Reproducing or cloning the game’s mechanics, systems, or unique progression (e.g., aura-based skill trees, cultivation ranks)
+
+Using or modifying any part of the source code, game files, or assets
+
+Creating derivative projects, mods, fan-games, or adaptations using the original idea or branding
+
+Training any AI or ML model on GSOFT-owned content, including images, animations, and narrative text
+
+Publishing or distributing the game or any part of it under a different name
+
+Registering trademarks or domains using similar names (e.g., “SkyEmpirez”, “GsoftGames”)
+
+3. LIMITED PERMISSIONS
+The following are allowed under specific, limited conditions:
+
+Educational review: studying the game or mechanics is allowed for non-commercial educational purposes, with credit given.
+
+Gameplay content: recording, streaming, or reviewing the game for non-commercial or fair-use commentary is permitted.
+
+Credit requirement: any educational or journalistic use must clearly state:
+
+“Sky Empires™ by GSOFT © 2025. All Rights Reserved.”
+
+4. ENFORCEMENT & PENALTIES
+Violations of this license may result in:
+
+Immediate DMCA takedown of cloned games, stolen content, or infringing assets
+
+Legal action under international copyright and trademark law
+
+Permanent ban from GSOFT platforms, Discord servers, or community events
+
+Reporting to digital marketplaces (Steam, Google Play, App Store, Itch.io, etc.)
+
+5. INTERNATIONAL PROTECTION
+This license is enforceable under:
+
+Moroccan copyright law (BMDA)
+
+Berne Convention international treaties
+
+United States Copyright Act (optional registration)
+
+Digital Millennium Copyright Act (DMCA)
+
+GSOFT reserves the right to escalate any infringement to international legal platforms and pursue monetary damages.
+
+6. TRADEMARK NOTICE
+GSOFT™, Sky Empires™, “Me or Nothing”™, and any future GSOFT slogans, logos, or game titles are protected as pending or active trademarks.
+
+You may not:
+
+Register, imitate, or reuse GSOFT-related names, domains, slogans, or brand visuals
+
+Use the name “GSOFT” or “Sky Empires” in association with your own work, game, or studio
+
+7. LICENSE SCOPE
+This license is non-transferable, non-commercial, and not open source.
+It does not grant any reuse, remix, or redistribution rights.
+
+If you wish to:
+
+License the game or brand
+
+Collaborate, publish, or represent the game
+
+Use assets in trailers, exhibitions, or media
+
+You must contact GSOFT directly at:
+
+📩 Email: contact@gsoftstudio.com
+🌍 Website: Coming soon
+📅 Issued on: July 2025
+🔐 License Version: GSOFT Game Protection License v1.0
+
+8. FINAL DECLARATION
+This is original work.
+This is protected.
+And this is untouchable.
+Protected by GSOFT Game Protection License v1.0 © 2025
